@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classTicTacToePlayer.html" title="This class registers the basic information of a Tic&#45;Tac&#45;Toe player and defines the prototypes of func..." alt="" coords="5,31,131,57"/>
+<area shape="rect" id="node2" href="$classHumanTTTPlayer.html" title="this class defines the movement of human Tic&#45;Tac&#45;Toe player" alt="" coords="179,5,313,32"/>
+<area shape="rect" id="node3" href="$classPCTTTPlayer.html" title="this class defines the movement of PC Tic&#45;Tac&#45;Toe player" alt="" coords="194,56,298,83"/>
+</map>

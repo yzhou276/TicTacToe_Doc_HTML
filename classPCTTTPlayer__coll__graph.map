@@ -1,0 +1,4 @@
+<map id="PCTTTPlayer" name="PCTTTPlayer">
+<area shape="rect" id="node1" title="this class defines the movement of PC Tic&#45;Tac&#45;Toe player" alt="" coords="16,80,120,107"/>
+<area shape="rect" id="node2" href="$classTicTacToePlayer.html" title="This class registers the basic information of a Tic&#45;Tac&#45;Toe player and defines the prototypes of func..." alt="" coords="5,5,131,32"/>
+</map>

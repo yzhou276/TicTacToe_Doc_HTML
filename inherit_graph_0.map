@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classSquareBoard.html" title="this class creates, manipulates, and manages a NxN square board" alt="" coords="5,5,111,32"/>
+<area shape="rect" id="node2" href="$classTicTacToeBoard.html" title="Represents a Tic&#45;Tac&#45;Toe board and inherits from SquareBoard." alt="" coords="159,5,281,32"/>
+</map>
